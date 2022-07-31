@@ -1,0 +1,29 @@
+{
+  "name": "is-equal",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuvalPeretz/is-equal.git"
+  },
+  "keywords": [
+    "equality",
+    "is-equal",
+    "equal",
+    "compare",
+    "comparison",
+    "comparing",
+    "similarity",
+    "similarity-comparing"
+  ],
+  "author": "Yuval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuvalPeretz/is-equal/issues"
+  },
+  "homepage": "https://github.com/YuvalPeretz/is-equal#readme"
+}
