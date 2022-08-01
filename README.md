@@ -1,4 +1,4 @@
-# is-equal
+# @blueyuval/is-equal
 
 A simple package with one funciton to determine if two variables are equal.
 This goes for deep objects equality.
