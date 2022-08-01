@@ -1,5 +1,5 @@
 {
-  "name": "is-equal",
+  "name": "@blueyuval/is-equal",
   "version": "1.0.0",
   "description": "\"\"",
   "main": "index.js",
@@ -8,11 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuvalPeretz/is-equal.git"
+    "url": "git+https://github.com/YuvalPeretz/-blueyuval-is-equal.git"
   },
   "keywords": [
+    "is equal",
+    "is_equal",
+    "isEqual",
+    "areEqual",
     "equality",
     "is-equal",
+    "are-equal",
     "equal",
     "compare",
     "comparison",
@@ -23,7 +28,7 @@
   "author": "Yuval",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YuvalPeretz/is-equal/issues"
+    "url": "https://github.com/YuvalPeretz/-blueyuval-is-equal/issues"
   },
-  "homepage": "https://github.com/YuvalPeretz/is-equal#readme"
+  "homepage": "https://github.com/YuvalPeretz/-blueyuval-is-equal#readme"
 }
